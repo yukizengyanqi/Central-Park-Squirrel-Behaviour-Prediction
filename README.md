@@ -1,3 +1,8 @@
+# Central Park Squirrel Behaviour Prediction
+A collaborative data science project investigating whether behavioural, spatial, temporal, and environmental features can predict observed squirrel eating behaviour in Central Park.
+
+This project applies data preprocessing, association analysis, supervised learning, and K-Means clustering to the 2018 Central Park Squirrel Census dataset.
+
 Research Question: To what extent can behavioural, spatial, temporal, and environmental
 features predict whether a squirrel is observed eating, and which factors are most influential 
 in this prediction?
